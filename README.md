@@ -1,14 +1,8 @@
 # HealthStack-System
 
 - An online based platform for multiple hospitals. Ability to track, monitor, and share a patient's health records between all hospitals. Patients can also see information regarding multiple hospitals and doctors, as well as take appointments via online. Pay laboratory tests via online as well as chat with appointed doctors.
-- Software Engineering Project - B.Sc. in Computer Science and Engineering (CSE)
+- Hackathon Project - Bitshack 2023.
 - Django Application
-
-## Contributors
-
-- **Team Members:** [Mohammed Jawwadul Islam](https://www.linkedin.com/in/jawwadfida/), [Mohammad Fahad Al Rafi](https://www.linkedin.com/in/md-fahad-al-al-rafi-14b968111/), [Moumy Kabir](https://www.linkedin.com/in/pranto-podder-b78b97162/), [Pranto Podder](https://www.linkedin.com/in/aysha-siddika-577ba5224/), [Aysha Siddika](https://www.linkedin.com/in/moumy-kabir-156a0a232/), Nafisa Akhter
-- **Project Duration:** August 2022 - September 2022
-
 
 ## Tools used:
       1) Front-end: HTML, CSS, Boostrap, Javascript
@@ -76,11 +70,6 @@
       3) Look for .env.example and settings.py files to see what credentials to set up, and then create .env files
       
       The credentials that you need to set up are: Mailtrap credentials, SSLCommerz Credentials. 
-
-
-# MKDocs Documentation and Youtube Video
-- [Youtube](https://youtu.be/TSR00OKBSCY) video link of MKDocs documentation on our Healthstack project.
-- Checkout out the [MKdocs documentation](https://jawwad-fida.github.io/HealthStack-System/) to see screenshots of our project.
 
 # Some Screenshots
 
